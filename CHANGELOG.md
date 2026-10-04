@@ -10,7 +10,8 @@ First release.
 - Dice roll animation across the table and an emerald point marker
 - "Off on Come-Out" and "Off Next Roll" settings for place bets
 - Vault economy support; bets are refunded on disconnect, restart or crash
-- Live balance in the menu title on 1.19.4+
+- Total money on the table shown above the pass line
+- Live balance in the menu title on 1.19.4+ (shown on the table total item on older versions)
 - `/craps`, `/craps <player>` for NPCs and the console, `/craps reload`
 - Update checker and bStats metrics
 - Supports Spigot and Paper 1.17 to 26.x
